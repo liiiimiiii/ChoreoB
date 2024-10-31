@@ -6,7 +6,7 @@ module.exports = {
       {
           "name":"nezha",
           "script":"/home/choreouser/nezha-agent",
-          "args":"-s ${NEZHA_SERVER}:${NEZHA_PORT} -p ${NEZHA_KEY} ${NEZHA_TLS}"
+          "args":"-s xix.xxixx.aa.am:443 -p 0c7ZM9nc6m5cJ7tM0o --tls"
       },
       {
           "name":"rbqray",
